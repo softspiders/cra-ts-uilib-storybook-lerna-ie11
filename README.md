@@ -1,6 +1,6 @@
 [SOFTSPIDERS](https://github.com/softspiders/softspiders)
 
-# cra-ts-uilib-storybook-lerna
+# cra-ts-uilib-storybook-lerna-ie11
 
 Starter for CRA with IE11 support in TypeScript with UiLib and Storybook in Lerna
 
