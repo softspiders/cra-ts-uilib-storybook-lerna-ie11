@@ -71,12 +71,6 @@ npm run build:app
 
 ---
 
-## Inspired by
-
-[shnyder: Monorepos: Lerna, TypeScript, CRA and Storybook combined](https://dev.to/shnydercom/monorepos-lerna-typescript-cra-and-storybook-combined-4hli)
-
----
-
 ### License
 
 Licensed under the [MIT license](./LICENSE). 
