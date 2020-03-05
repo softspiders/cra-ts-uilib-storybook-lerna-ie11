@@ -2,13 +2,14 @@
 
 # cra-ts-uilib-storybook-lerna
 
-Minimalistic template of CRA in TypeScript with UiLib and Storybook in Lerna
+Starter for CRA with IE11 support in TypeScript with UiLib and Storybook in Lerna
 
 ---
 
 ## Feature tags
 
 - create-react-app
+- ie11
 - lerna
 - lib
 - react
@@ -22,13 +23,7 @@ Minimalistic template of CRA in TypeScript with UiLib and Storybook in Lerna
 
 ## Direct ancestors
 
-- [typescript](https://github.com/softspiders/typescript)
-- [lerna](https://github.com/softspiders/lerna)
-
-
-## Direct descendants
-
-[cra-ts-uilib-storybook-lerna-mvn-war](https://github.com/softspiders/cra-ts-uilib-storybook-lerna-mvn-war) - also by code
+- [***-ie11***: cra-ts-uilib-storybook-lerna](https://github.com/softspiders/cra-ts-uilib-storybook-lerna)
 
 ---
 
