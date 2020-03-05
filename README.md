@@ -11,13 +11,12 @@ Starter for *Create React App* with *IE11* support in *TypeScript* with UiLib an
 - create-react-app
 - ie11
 - lerna
-- lib
 - react
 - starter
 - storybook
 - template
 - typescript
-- ui
+- uilib
 
 ---
 
