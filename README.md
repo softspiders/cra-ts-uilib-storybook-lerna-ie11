@@ -2,7 +2,7 @@
 
 # cra-ts-uilib-storybook-lerna-ie11
 
-Starter for CRA with IE11 support in TypeScript with UiLib and Storybook in Lerna
+Starter for *CRA* with *IE11* support in *TypeScript* with UiLib and *Storybook* in *Lerna*
 
 ---
 
